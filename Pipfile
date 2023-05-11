@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
+pandas = "*"
+dask = "*"
+pyarrow = "*"
 
 [dev-packages]
 
