@@ -1,0 +1,3 @@
+# this file exists so that we know when not to do the
+# data/raw/Taxi_Trips_-_2014.csv → data/trips/trips.hdf5 conversion
+fingerprint: b26eff6f366eb9eb950333a07811ac95
