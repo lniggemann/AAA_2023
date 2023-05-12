@@ -11,6 +11,8 @@ folium = "*"
 dask = "*"
 zipfile-deflate64 = "*"
 vaex="*"
+geopandas = "*"
+osmnx = "*"
 
 [dev-packages]
 
