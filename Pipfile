@@ -9,6 +9,8 @@ pandas = "*"
 dask = "*"
 pyarrow = "*"
 folium = "*"
+geopandas = "*"
+osmnx = "*"
 
 [dev-packages]
 
