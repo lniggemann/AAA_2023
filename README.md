@@ -12,5 +12,5 @@ from terminal:
 - run "pipenv shell" to activate virtual env
 
 reset environment:
-- delete vitual env folder (location win: "C:\Users\XYZ\.virtualenvs\AAA_2023-xxxxxxx")
+- delete vitual env folder (location win: "C:\Users\XYZ\\.virtualenvs\AAA_2023-xxxxxxx")
 - rerun pipenv install and pipenv shell
