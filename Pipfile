@@ -6,13 +6,15 @@ name = "pypi"
 [packages]
 jupyter = "*"
 pandas = "*"
-dask = "*"
 pyarrow = "*"
 folium = "*"
+dask = "*"
+zipfile-deflate64 = "*"
+vaex="*"
 geopandas = "*"
 osmnx = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.10"
