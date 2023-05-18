@@ -13,6 +13,9 @@ zipfile-deflate64 = "*"
 vaex="*"
 geopandas = "*"
 osmnx = "*"
+shapefile = "*"
+h3 = "*"
+
 
 [dev-packages]
 
