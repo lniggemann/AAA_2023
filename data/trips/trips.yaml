@@ -1,3 +1,3 @@
 # this file exists so that we know when not to do the
-# data/raw/Taxi_Trips_-_2014.csv → data/trips/trips.hdf5 conversion
-fingerprint: b26eff6f366eb9eb950333a07811ac95
+# data/raw/Taxi_Trips_-_2014.csv/Taxi_Trips_-_2014.csv → data/trips/trips.hdf5 conversion
+fingerprint: 7e2d21cd65970ce25ec9114d94b6df09
