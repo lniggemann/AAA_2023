@@ -2,3 +2,4 @@
 *.zip
 *.feather
 *.hdf5
+*.pickle
