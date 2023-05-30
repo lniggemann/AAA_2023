@@ -8,12 +8,10 @@ jupyter = "*"
 pandas = "*"
 pyarrow = "*"
 folium = "*"
-dask = "*"
 zipfile-deflate64 = "*"
 vaex="*"
 geopandas = "*"
 osmnx = "*"
-shapefile = "*"
 h3 = "*"
 
 
