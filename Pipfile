@@ -13,7 +13,9 @@ vaex="*"
 geopandas = "*"
 osmnx = "*"
 h3 = "*"
-
+sklearn = "*"
+scikit-learn = "*"
+seaborn = "*"
 
 [dev-packages]
 
