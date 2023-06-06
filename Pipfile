@@ -16,6 +16,8 @@ h3 = "*"
 sklearn = "*"
 scikit-learn = "*"
 seaborn = "*"
+plotly = "*"
+contextily = "*"
 
 [dev-packages]
 
