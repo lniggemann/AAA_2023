@@ -18,6 +18,8 @@ scikit-learn = "*"
 seaborn = "*"
 plotly = "*"
 contextily = "*"
+keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
