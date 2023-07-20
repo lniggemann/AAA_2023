@@ -18,9 +18,10 @@ scikit-learn = "*"
 seaborn = "*"
 plotly = "*"
 contextily = "*"
-keras = "*"
+keras = "==2.12.0rc1"
 tensorflow = "*"
 gym = "*"
+keras-rl2 = "*"
 
 [dev-packages]
 
