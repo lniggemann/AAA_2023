@@ -20,6 +20,7 @@ plotly = "*"
 contextily = "*"
 keras = "*"
 tensorflow = "*"
+gym = "*"
 
 [dev-packages]
 
